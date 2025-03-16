@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User xsi:type="Admin">
+    <Username>admin</Username>
+    <HashedPassword>8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918</HashedPassword>
+  </User>
+  <User>
+    <Username>orangutan</Username>
+    <HashedPassword>630da1c5dadec7718b4c45b46e54a7835c408cccabb0ded75b5b36e97a1c8051</HashedPassword>
+  </User>
+  <User>
+    <Username>testuser</Username>
+    <HashedPassword>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</HashedPassword>
+  </User>
+  <User>
+    <Username>test2</Username>
+    <HashedPassword>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</HashedPassword>
+  </User>
+</ArrayOfUser>

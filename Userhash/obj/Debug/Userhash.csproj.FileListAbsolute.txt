@@ -1,0 +1,14 @@
+D:\Desktop\ŠKOLA\Programko\Userhash\Userhash\obj\Debug\Userhash.csproj.AssemblyReference.cache
+D:\Desktop\ŠKOLA\Programko\Userhash\Userhash\obj\Debug\Userhash.AdminDashboard.resources
+D:\Desktop\ŠKOLA\Programko\Userhash\Userhash\obj\Debug\Userhash.LoginForm.resources
+D:\Desktop\ŠKOLA\Programko\Userhash\Userhash\obj\Debug\Userhash.Properties.Resources.resources
+D:\Desktop\ŠKOLA\Programko\Userhash\Userhash\obj\Debug\Userhash.UserDashboard.resources
+D:\Desktop\ŠKOLA\Programko\Userhash\Userhash\obj\Debug\Userhash.csproj.GenerateResource.cache
+D:\Desktop\ŠKOLA\Programko\Userhash\Userhash\obj\Debug\Userhash.csproj.CoreCompileInputs.cache
+D:\Desktop\ŠKOLA\Programko\Userhash\Userhash\bin\Debug\Userhash.exe.config
+D:\Desktop\ŠKOLA\Programko\Userhash\Userhash\bin\Debug\Userhash.exe
+D:\Desktop\ŠKOLA\Programko\Userhash\Userhash\bin\Debug\Userhash.pdb
+D:\Desktop\ŠKOLA\Programko\Userhash\Userhash\obj\Debug\Userhash.exe
+D:\Desktop\ŠKOLA\Programko\Userhash\Userhash\obj\Debug\Userhash.pdb
+D:\Desktop\ŠKOLA\Programko\UserHash\Userhash\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Desktop\ŠKOLA\Programko\UserHash\Userhash\obj\Debug\Userhash.csproj.Up2Date
