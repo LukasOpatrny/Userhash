@@ -1,4 +1,4 @@
 # Userhash
 
-# jmeno: admin <br />
+jmeno: admin <br />
 heslo: admin
